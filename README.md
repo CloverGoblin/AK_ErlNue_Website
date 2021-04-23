@@ -4,7 +4,7 @@ Netzwerkseite verfügbar im Netzwerk
 Erreichbar auf:
 https://netzwerk.arbeiterkind.de/toro/resource/html#/entity.17640
 
-und bald auf Instagram :)
+und demnächst auf Instagram :) 
 
 Tolle Anleitungen zum Einstieg:
 https://www.w3schools.com/html/
